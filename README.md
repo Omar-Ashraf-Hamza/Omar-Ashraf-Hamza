@@ -8,12 +8,15 @@ I'm a passionate programmer focused on learning software development and buildin
 
 ### 👨🏻‍💻 About Me
 
+- 🎓 Graduate of the Institute of Information Systems.
 - 💻 Currently learning C# and .NET Development.
 - 🚀 Completed Course 19 at Programming Advices.
 - 🗄️ Learning SQL Server and Database Design.
-- 🏗️ Interested in Object-Oriented Programming and Software Architecture.
+- 🧠 Knowledge of Data Structures and Object-Oriented Programming.
+- 🏗️ Interested in Software Architecture and writing clean code.
 - 🔧 Familiar with Git and GitHub for version control.
 - 🛠️ Experienced with Visual Studio and Visual Studio Code.
+- 💡 Have knowledge of C++ programming.
 - 📚 Always working on improving my programming skills.
 - 🎯 My goal is to become a professional .NET Developer.
 
@@ -22,6 +25,9 @@ I'm a passionate programmer focused on learning software development and buildin
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
   </a>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET" />
@@ -45,15 +51,15 @@ I'm a passionate programmer focused on learning software development and buildin
 
 ### 📚 Currently Learning
 
-- C# Advanced Concepts
+- Advanced C# Concepts
 - .NET Development
 - SQL Server
 - Database Relationships and Design
 - Git and GitHub
+- Software Development Best Practices
 
 ### 🤝 Let's Connect
 
 I'm always interested in learning, sharing knowledge, and connecting with other developers.
 
 <!-- Add your social media links here -->
-
