@@ -10,16 +10,18 @@ I'm a passionate programmer on a journey to become a professional .NET Developer
 
 - 🎓 Graduate of the Institute of Information Systems.
 - 💻 Focused on C# and .NET Development.
-- 🚀 Completed Course 19 at Programming Advices.
+- 🚀 Currently following the Programming Advices curriculum (Course 19).
 - 🖥️ Have basic knowledge of Windows Forms (WinForms).
 - 🗄️ Working with SQL Server and Database Design.
-- 🧠 Interested in Data Structures and Object-Oriented Programming.
-- 🏗️ Interested in Software Architecture and writing clean code.
+- 🧠 Knowledge of Data Structures and Object-Oriented Programming.
+- 🏗️ Interested in Software Architecture and clean code.
 - 🔧 Familiar with Git and GitHub.
 - 🛠️ Use Visual Studio and Visual Studio Code.
 - 💡 Have knowledge of C++ programming.
-- 📚 Always eager to learn, improve, and explore new technologies.
+- 📚 Always eager to learn and improve my programming skills.
 - 🎯 My goal is to become a professional .NET Developer.
+
+---
 
 ### 🛠️ Technologies and Tools
 
@@ -53,6 +55,8 @@ I'm a passionate programmer on a journey to become a professional .NET Developer
   </a>
 </p>
 
+---
+
 ### 📚 Currently Learning
 
 - Advanced C# Concepts
@@ -62,19 +66,48 @@ I'm a passionate programmer on a journey to become a professional .NET Developer
 - Git and GitHub
 - Software Development Best Practices
 
+---
+
 ### 🚀 My Development Journey
 
 I'm continuously developing my programming skills through practical learning and real-world projects.
 
-One of my learning experiences is the DVLD project, where I practice building applications, working with databases, implementing business logic, and organizing code using multiple layers.
+One of my main learning experiences is the DVLD project, where I practice:
+
+- Building Windows Forms Applications.
+- Working with SQL Server Databases.
+- Implementing Business Logic.
+- Applying Object-Oriented Programming.
+- Using a Multi-Layer Architecture.
+- Writing organized and maintainable code.
+
+---
 
 ### 💡 What I'm Interested In
 
 - Building desktop applications using C# and .NET.
 - Writing clean, organized, and maintainable code.
 - Understanding business requirements and translating them into software solutions.
-- Learning new programming concepts and improving problem-solving skills.
+- Improving problem-solving skills.
 - Collaborating and sharing knowledge with other developers.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-Ashraf-Hamza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Omar's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Ashraf-Hamza&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Omar-Ashraf-Hamza&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
 
 ### 🤝 Let's Connect!
 
@@ -90,4 +123,10 @@ I'm always happy to connect with developers, exchange ideas, learn from others, 
   <a href="mailto:omarashrafali2285@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Keep Learning | Keep Building | Never Stop Improving 🚀
 </p>
