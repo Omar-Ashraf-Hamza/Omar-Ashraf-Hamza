@@ -127,6 +127,9 @@ I'm always happy to connect with developers, exchange ideas, learn from others, 
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Omar-Ashraf-Hamza&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 ---
 
 <p align="center">
