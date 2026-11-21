@@ -1,24 +1,24 @@
 # Hi there! 👋 I'm Omar Ashraf
 
-### C# / .NET Developer in Progress 💻
+### 💻 Aspiring C# / .NET Developer
 
-I'm a passionate programmer focused on learning software development and building real-world applications using C# and .NET.
+I'm a passionate programmer on a journey to become a professional .NET Developer. I enjoy learning new technologies, solving problems, and building real-world applications.
 
 <img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ### 👨🏻‍💻 About Me
 
 - 🎓 Graduate of the Institute of Information Systems.
-- 💻 Currently learning C# and .NET Development.
+- 💻 Focused on C# and .NET Development.
 - 🚀 Completed Course 19 at Programming Advices.
 - 🖥️ Have basic knowledge of Windows Forms (WinForms).
-- 🗄️ Learning SQL Server and Database Design.
-- 🧠 Knowledge of Data Structures and Object-Oriented Programming.
+- 🗄️ Working with SQL Server and Database Design.
+- 🧠 Interested in Data Structures and Object-Oriented Programming.
 - 🏗️ Interested in Software Architecture and writing clean code.
-- 🔧 Familiar with Git and GitHub for version control.
-- 🛠️ Experienced with Visual Studio and Visual Studio Code.
+- 🔧 Familiar with Git and GitHub.
+- 🛠️ Use Visual Studio and Visual Studio Code.
 - 💡 Have knowledge of C++ programming.
-- 📚 Always working on improving my programming skills.
+- 📚 Always eager to learn, improve, and explore new technologies.
 - 🎯 My goal is to become a professional .NET Developer.
 
 ### 🛠️ Technologies and Tools
@@ -58,13 +58,37 @@ I'm a passionate programmer focused on learning software development and buildin
 - Advanced C# Concepts
 - .NET Development
 - Windows Forms
-- SQL Server
-- Database Relationships and Design
+- SQL Server and Database Design
 - Git and GitHub
 - Software Development Best Practices
 
-### 🤝 Let's Connect
+### 🚀 My Development Journey
 
-I'm always interested in learning, sharing knowledge, and connecting with other developers.
+I'm continuously developing my programming skills through practical learning and real-world projects.
 
-<!-- Add your social media links here -->
+One of my learning experiences is the DVLD project, where I practice building applications, working with databases, implementing business logic, and organizing code using multiple layers.
+
+### 💡 What I'm Interested In
+
+- Building desktop applications using C# and .NET.
+- Writing clean, organized, and maintainable code.
+- Understanding business requirements and translating them into software solutions.
+- Learning new programming concepts and improving problem-solving skills.
+- Collaborating and sharing knowledge with other developers.
+
+### 🤝 Let's Connect!
+
+I'm always happy to connect with developers, exchange ideas, learn from others, and explore new opportunities.
+
+<p align="left">
+  <a href="https://wa.me/201092368528">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/OMAR11520">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+⭐ *"Every expert was once a beginner. Keep learning, keep building, and never stop improving!"*
