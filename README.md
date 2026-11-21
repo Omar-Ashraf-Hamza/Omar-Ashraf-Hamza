@@ -11,6 +11,7 @@ I'm a passionate programmer focused on learning software development and buildin
 - 🎓 Graduate of the Institute of Information Systems.
 - 💻 Currently learning C# and .NET Development.
 - 🚀 Completed Course 19 at Programming Advices.
+- 🖥️ Have basic knowledge of Windows Forms (WinForms).
 - 🗄️ Learning SQL Server and Database Design.
 - 🧠 Knowledge of Data Structures and Object-Oriented Programming.
 - 🏗️ Interested in Software Architecture and writing clean code.
@@ -31,6 +32,9 @@ I'm a passionate programmer focused on learning software development and buildin
   </a>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt="Windows Forms" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" alt="SQL Server" />
@@ -53,6 +57,7 @@ I'm a passionate programmer focused on learning software development and buildin
 
 - Advanced C# Concepts
 - .NET Development
+- Windows Forms
 - SQL Server
 - Database Relationships and Design
 - Git and GitHub
