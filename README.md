@@ -43,37 +43,7 @@ I'm a passionate programmer on a journey to become a professional .NET Developer
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
-  </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt="Windows Forms" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" alt="SQL Server" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-  </a>
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="45" height="45" alt="Visual Studio" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="Visual Studio Code" />
-  </a>
-</p>
 
----
 
 ### 📚 Currently Learning
 
