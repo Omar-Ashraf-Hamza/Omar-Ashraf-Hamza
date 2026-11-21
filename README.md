@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there! 👋 I'm Omar Ashraf
 
-<!--
-**Omar-Ashraf-Hamza/Omar-Ashraf-Hamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### C# / .NET Developer in Progress 💻
 
-Here are some ideas to get you started:
+I'm a passionate programmer focused on learning software development and building real-world applications using C# and .NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+### 👨🏻‍💻 About Me
+
+- 💻 Currently learning C# and .NET Development.
+- 🚀 Completed Course 19 at Programming Advices.
+- 🗄️ Learning SQL Server and Database Design.
+- 🏗️ Interested in Object-Oriented Programming and Software Architecture.
+- 🔧 Familiar with Git and GitHub for version control.
+- 🛠️ Experienced with Visual Studio and Visual Studio Code.
+- 📚 Always working on improving my programming skills.
+- 🎯 My goal is to become a professional .NET Developer.
+
+### 🛠️ Technologies and Tools
+
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45" alt="SQL Server" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="45" height="45" alt="Visual Studio" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="Visual Studio Code" />
+  </a>
+</p>
+
+### 📚 Currently Learning
+
+- C# Advanced Concepts
+- .NET Development
+- SQL Server
+- Database Relationships and Design
+- Git and GitHub
+
+### 🤝 Let's Connect
+
+I'm always interested in learning, sharing knowledge, and connecting with other developers.
+
+<!-- Add your social media links here -->
+
