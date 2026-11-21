@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Omar Ashraf
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Omar+Ashraf;Aspiring+C%23+%2F+.NET+Developer" alt="Omar Ashraf" />
+</h1>
 
 ### 💻 Aspiring C# / .NET Developer
 
