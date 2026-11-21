@@ -24,7 +24,24 @@ I'm a passionate programmer on a journey to become a professional .NET Developer
 - 🎯 My goal is to become a professional .NET Developer.
 
 ---
+## 🛠️ Tech Stack & Tools
 
+### 💻 Programming Languages
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🧠 Core Concepts
+![OOP](https://img.shields.io/badge/OOP-2C3E50?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data_Structures-8E44AD?style=for-the-badge)
+
+### 🗄️ Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 🔧 Tools & Version Control
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ### 🛠️ Technologies and Tools
 
 <p align="left">
